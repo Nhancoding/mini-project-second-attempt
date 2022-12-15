@@ -1,0 +1,38 @@
+.navlink {
+    display: inline;
+}
+
+#navbar {
+    list-style-type: none;
+    text-align: right;
+    background-color: blanchedalmond;
+    padding: 5px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+    background-color: aqua;
+    padding: 30px;
+}
+
+#contact-btn {
+    margin-top: 5px
+    padding: 5px;
+    background-color: tan;
+    border-radius: 3%;
+}
+
+footer {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+}
